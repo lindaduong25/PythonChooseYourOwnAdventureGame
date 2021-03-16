@@ -42,5 +42,5 @@ if age >= 15:
         print("Goodbye!")
                           
 else:
-    print("You are not old enough to choose your own adventure...")
+    print("You are not old enough to play...")
 
